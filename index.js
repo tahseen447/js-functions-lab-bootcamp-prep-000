@@ -14,3 +14,4 @@ function happyHolidaysTo(string holiday, string name)
 function holidayCountdown(string holiday, string days)
 {
 `It's ${days} days until ${holiday}!`
+}
